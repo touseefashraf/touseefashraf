@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @touseefashraf
-- 👀 I’m interested in Data Science, Computer Vision, python programming. 
+- 👀 I’m interested in Data Science, Deep Learning, Computer Vision, Python programming. 
 - 🌱 I’m currently studying Master in Media Technology(Electrical and Information Technology)
 - 📫 How to reach me touseef.ashraf90@gmail.com
 
